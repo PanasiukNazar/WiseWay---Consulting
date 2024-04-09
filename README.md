@@ -1,1 +1,1 @@
-# WiseWay---Consulting
+[DEMO](https://panasiuknazar.github.io/WiseWay---Consulting/)
